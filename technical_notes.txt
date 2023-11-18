@@ -1,0 +1,4 @@
+this replay handles realtime waves creation, filtering and ring modulation
+there is no huge memory pre-calculations like in the original amiga or windows player, all is realtime calculated by the dsp
+if you don't use ring modulation and if you use 10 channels or less, all fits in the DSP memory, so just a few bytes are read from central RAM, 50 times per second.
+this way, hively is less heavy for the other parts of your demo/game than any protracker module 
