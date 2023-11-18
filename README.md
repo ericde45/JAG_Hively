@@ -11,6 +11,8 @@ change the path in the .incbin at the bottom of the source
 assemble compile link
 run
 
+working proof recorded on a real Atari Jaguar : https://www.youtube.com/watch?v=sskGjXD2bmM
 
+hively tracker available at : http://www.hivelytracker.co.uk/
 
-- original windows replay routine from Hively Tracker pack by Peter Gordon aka Xeron
+- original Windows replay routine from Hively Tracker pack by Peter Gordon aka Xeron
